@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tresetter First Post"
-author: sal
+author: brady
 categories: [ Mystery ]
 image: assets/images/1.jpg
 featured: true
